@@ -1,5 +1,5 @@
-# perceptron-basic
-A basic implementation of Perceptron to help improve implementation clarity
+# perceptron-logical-and
+A basic implementation of logical 'and' in a Perceptron
 
 ## Setup
 ```
