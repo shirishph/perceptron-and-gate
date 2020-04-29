@@ -1,4 +1,4 @@
-# perceptron-logical-and
+# perceptron-bipolar-and
 A basic implementation of logical 'and' in a Perceptron
 
 ## Setup
