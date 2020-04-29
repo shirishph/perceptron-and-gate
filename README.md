@@ -23,7 +23,7 @@ Loosely based on "Artificial Neural Networks | Implementation of AND function Us
 
 ## Sample Output
 ```
-(venv) (base) shirish@***************:workarea/perceptron-logical-and ‹master›$ python3 Perceptron_Test.py
+(venv) (base) shirish@***************:workarea/perceptron-bipolar-and ‹master›$ python3 Perceptron_Test.py
 ------------------------------------------------------------------------
              Input   Tar NetIP CalOP         WtChanges           Weights
     x1    x2    LR     t  y_in     y   dw1   dw2    db    w1    w2     b
